@@ -1,0 +1,51 @@
+baseURL = "https://mbuze.github.io/DSAIL_MARS_materials_workshop_2026/"
+languageCode = "en-gb"
+title = "DSAIL / MARS Materials Workshop 2026"
+theme = "blowfish"
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  colorScheme = "lancaster"
+  description = "A workshop on data-driven modelling of metallic materials across scales — Lancaster Castle, 6–8 May 2026"
+  defaultAppearance = "light"
+  autoSwitchAppearance = false
+  enableSearch = false
+  disableTextInHeader = false
+
+  [params.Author]
+    name = "Data-driven modelling of metallic materials across scales"
+    headline = "A DSAIL / MARS workshop · Lancaster Castle · 6–8 May 2026"
+
+  [params.homepage]
+    layout = "custom"
+    homepageImage = "images/background_photo_venue.jpeg"
+    showRecent = false
+    cardView = false
+
+  [params.header]
+    layout = "basic"
+
+  [params.footer]
+    showCopyright = false
+    showThemeAttribution = false
+    showAppearanceSwitcher = false
+    showScrollToTop = true
+
+[[menus.main]]
+  name = "Programme"
+  url = "/programme/"
+  weight = 10
+[[menus.main]]
+  name = "Registration"
+  url = "/registration/"
+  weight = 20
+[[menus.main]]
+  name = "Practical info"
+  url = "/practical/"
+  weight = 30
