@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbuze.github.io/DSAIL_MARS_materials_workshop_2026/sitemap.xml
