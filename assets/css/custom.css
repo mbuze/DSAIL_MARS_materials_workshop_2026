@@ -19,7 +19,7 @@
   justify-content: center;
   gap: 2rem;
   flex-wrap: wrap;
-  margin: 2rem auto;
+  margin: 0.5rem auto 1rem;
   padding: 1rem 1.5rem;
   background-color: #ffffff;
   border-radius: 0.5rem;
@@ -28,7 +28,7 @@
 }
 
 .logo-bar img {
-  height: 52px;
+  height: 62px;
   width: auto;
   object-fit: contain;
 }

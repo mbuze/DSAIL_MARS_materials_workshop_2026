@@ -42,6 +42,10 @@ enableEmoji = true
   url = "/programme/"
   weight = 10
 [[menus.main]]
+  name = "Speakers"
+  url = "/speakers/"
+  weight = 15
+[[menus.main]]
   name = "Registration"
   url = "/registration/"
   weight = 20
