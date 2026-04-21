@@ -12,7 +12,7 @@ description: "Workshop programme — DSAIL / MARS Materials Workshop 2026"
 <div class="srow"><span class="stime">1pm</span><span class="sentry">Welcome remarks and an overview of the workshop by the organisers</span></div>
 <div class="srow"><span class="stime">1:45pm</span><span class="sentry"><a href="../speakers/#carl-slater">Carl Slater</a> · Warwick Manufacturing Group, University of Warwick</span></div>
 <div class="srow break"><span class="stime">2:30pm</span><span class="sentry">Coffee break</span></div>
-<div class="srow"><span class="stime">3pm</span><span class="sentry"><a href="../speakers/#david-bourne--ibraheem-rasheed">David Bourne &amp; Ibraheem Rasheed</a> · Heriot-Watt University</span></div>
+<div class="srow"><span class="stime">3pm</span><span class="sentry"><a href="../speakers/#david-bourne--rasheed-ibraheem">David Bourne &amp; Rasheed Ibraheem</a> · Heriot-Watt University</span></div>
 <div class="srow"><span class="stime">3:45pm</span><span class="sentry"><a href="../speakers/#didier-farrugia">Didier Farrugia</a> · Tata Steel UK</span></div>
 <div class="srow"><span class="stime">4:30pm</span><span class="sentry">Flash talks → Drinks reception with poster display</span></div>
 </div>

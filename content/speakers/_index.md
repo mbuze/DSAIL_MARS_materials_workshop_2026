@@ -5,8 +5,8 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 
 <div class="speaker-list">
 
-<div class="speaker" id="david-bourne--ibraheem-rasheed">
-<h3>David Bourne &amp; Ibraheem Rasheed</h3>
+<div class="speaker" id="david-bourne--rasheed-ibraheem">
+<h3>David Bourne &amp; Rasheed Ibraheem</h3>
 <p class="meta">Heriot-Watt University · Wednesday 6 May, 3pm</p>
 <p class="talk-title">Fast algorithms for generating synthetic polycrystalline microstructures</p>
 <p class="abstract">We present fast algorithms for generating synthetic microstructures for modelling polycrystalline materials, such as steel. The geometry of the microstructure is modelled using Voronoi diagrams, Laguerre diagrams and anisotropic power diagrams (APDs). These low-parameter tessellations are able to represent a rich family of polycrystalline microstructures. We use tools from optimal transport theory and computational geometry to give precise control over the volumes of the grains and to generate synthetic microstructures with 10,000+ grains in the order of seconds. By using APDs and GPU-acceleration, we can also control the shape of the grains and allow for curved grain boundaries. Applications include crystal plasticity simulations, modelling grain growth and recrystallisation, and fitting diagrams to EBSD and XRD images of metals. In this talk we will give demonstrations of our software libraries SynthetMic and PyAPD.</p>
