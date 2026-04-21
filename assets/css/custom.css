@@ -33,6 +33,78 @@
   object-fit: contain;
 }
 
+/* ── Programme schedule ────────────────────────────────────────────── */
+
+.schedule {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+.schedule .srow {
+  display: flex;
+  gap: 1rem;
+  padding: 0.12rem 0;
+  align-items: baseline;
+}
+
+.schedule .stime {
+  width: 4rem;
+  flex-shrink: 0;
+  font-weight: 600;
+  color: #555;
+  white-space: nowrap;
+}
+
+.schedule .sentry {
+  flex: 1;
+}
+
+.schedule .srow.break .sentry {
+  color: #888;
+  font-style: italic;
+}
+
+/* ── Speakers list ─────────────────────────────────────────────────── */
+
+.speaker-list {
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.speaker-list .speaker {
+  margin-bottom: 1.6rem;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.speaker-list .speaker:last-child {
+  border-bottom: none;
+}
+
+.speaker-list h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 0.1rem;
+}
+
+.speaker-list .meta {
+  color: #666;
+  margin: 0 0 0.5rem;
+  font-size: 0.82rem;
+}
+
+.speaker-list .talk-title {
+  font-style: italic;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.speaker-list .abstract {
+  margin: 0;
+  text-align: justify;
+}
+
 /* Registration notice badge */
 .registration-notice {
   display: inline-block;
