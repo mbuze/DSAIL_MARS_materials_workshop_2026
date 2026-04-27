@@ -23,7 +23,7 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 <h3>Didier Farrugia</h3>
 <p class="meta">Tata Steel UK · Wednesday 6 May, 3:45pm</p>
 <p class="talk-title">Microstructure modelling from the perspective of a steel manufacturer: a journey from the past, present and into the future</p>
-<p class="abstract"><em>Abstract to follow.</em></p>
+<p class="abstract">This talk will aim to give an overview of the various microstructure modelling approaches developed since the 1990s from the author's own experience and involvement in this field, as well as highlighting their benefits/drawbacks from the point of view of a steel manufacturer transitioning to a low CO2 manufacturing process. The talk represents a snapshot of the journey from the past to the present, together with future needs/ideas.</p>
 </div>
 
 <div class="speaker" id="peter-hatton">
@@ -43,8 +43,8 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 <div class="speaker" id="shresht-jain">
 <h3>Shresht Jain</h3>
 <p class="meta">University of Manchester · Thursday 7 May, 11:45am</p>
-<p class="talk-title"><em>TBC</em></p>
-<p class="abstract"><em>Abstract to follow.</em></p>
+<p class="talk-title">Sodaforming: Localised Axisymmetric Buckling in Filled Soda Cans beyond the Elastic Limit</p>
+<p class="abstract">Localised solutions are known to play an important role in the buckling of plastically deforming structures. The buckling of a cylindrical shells is a canonical problem in structural mechanics that we revisit here to reveal the role of localization in metallic shells. We investigate the buckling fluid-filled metallic cans and find that, when compressed, the cans buckle axisymmetrically with a predictable wavelength. These axisymmetric 'ring' buckles are localised and appear sequentially on the surface of the can. We characterise the material properties of the cans experimentally and model their post-buckling behaviour, using a "quasi-plastic" approach. The results of our model show that the sequential appearance of the localised buckling is a consequence of a softening and re-stiffening of material that occurs as it deforms. Our model also suggests that the pattern formation process responsible for sequential ring buckles arise via homoclinic snaking in a manner analogous to the formation of localised rolls in the 1-D nonlinear Swift-Hohenberg equation. As an experimental demonstration of a system where spatial localisation occurs due to the nonlinearities of the shell, our study bridges the gap between research on the stability of cylindrical shells and the mathematical framework of the nonlinear Swift-Hohenberg equation, which can describe the underlying dynamics of localisation in general.</p>
 </div>
 
 <div class="speaker" id="samuel-magorrian">
