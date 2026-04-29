@@ -12,7 +12,8 @@ description: "Workshop programme — DSAIL / MARS Materials Workshop 2026"
 <div class="srow"><span class="stime">2:15pm</span><span class="sentry"><a href="../speakers/#david-bourne--rasheed-ibraheem">David Bourne &amp; Rasheed Ibraheem</a> · Heriot-Watt University</span></div>
 <div class="srow break"><span class="stime">3pm</span><span class="sentry">Coffee break</span></div>
 <div class="srow"><span class="stime">3:30pm</span><span class="sentry"><a href="../speakers/#didier-farrugia">Didier Farrugia</a> · Tata Steel UK</span></div>
-<div class="srow"><span class="stime">4:15pm</span><span class="sentry">Flash talks → Drinks reception with poster display</span></div>
+<div class="srow"><span class="stime">4:15pm</span><span class="sentry">Flash talks</span></div>
+<div class="srow break"><span class="stime">~5pm</span><span class="sentry">Drinks reception &amp; posters · Reading Room, The Storey</span></div>
 </div>
 
 ## Thursday 7 May
@@ -29,7 +30,7 @@ description: "Workshop programme — DSAIL / MARS Materials Workshop 2026"
 <div class="srow break"><span class="stime">3pm</span><span class="sentry">Coffee break</span></div>
 <div class="srow"><span class="stime">3:30pm</span><span class="sentry"><a href="../speakers/#tom-hudson">Tom Hudson</a> · University of Warwick</span></div>
 <div class="srow"><span class="stime">4:15pm</span><span class="sentry"><a href="../speakers/#xinyi-wu">Xinyi Wu</a> · Lancaster University</span></div>
-<div class="srow"><span class="stime">6pm</span><span class="sentry">Conference dinner</span></div>
+<div class="srow break"><span class="stime">6pm</span><span class="sentry">Conference dinner · Merchants 1688</span></div>
 </div>
 
 ## Friday 8 May
@@ -37,8 +38,8 @@ description: "Workshop programme — DSAIL / MARS Materials Workshop 2026"
 <div class="schedule">
 <div class="srow"><span class="stime">9am</span><span class="sentry"><a href="../speakers/#peter-hatton">Peter Hatton</a> · Amentum</span></div>
 <div class="srow"><span class="stime">9:45am</span><span class="sentry"><a href="../speakers/#matthias-sachs">Matthias Sachs</a> · Lancaster University</span></div>
-<div class="srow break"><span class="stime">10:30am</span><span class="sentry">Coffee break</span></div>
+<div class="srow break"><span class="stime">10:30am</span><span class="sentry">Coffee &amp; pastries</span></div>
 <div class="srow"><span class="stime">11am</span><span class="sentry"><a href="../speakers/#sam-murphy">Sam Murphy</a> · Lancaster University</span></div>
 <div class="srow"><span class="stime">11:45am</span><span class="sentry">Closing discussion / round table</span></div>
-<div class="srow break"><span class="stime">12:30pm</span><span class="sentry">Lunch and close</span></div>
+<div class="srow break"><span class="stime">12:30pm</span><span class="sentry">Close</span></div>
 </div>
