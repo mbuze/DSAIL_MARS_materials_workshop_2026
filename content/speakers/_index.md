@@ -7,7 +7,7 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 
 <div class="speaker" id="david-bourne--rasheed-ibraheem">
 <h3>David Bourne &amp; Rasheed Ibraheem</h3>
-<p class="meta">Heriot-Watt University · Wednesday 6 May, 3pm</p>
+<p class="meta">Heriot-Watt University · Wednesday 6 May, 2:45pm</p>
 <p class="talk-title">Fast algorithms for generating synthetic polycrystalline microstructures</p>
 <p class="abstract">We present fast algorithms for generating synthetic microstructures for modelling polycrystalline materials, such as steel. The geometry of the microstructure is modelled using Voronoi diagrams, Laguerre diagrams and anisotropic power diagrams (APDs). These low-parameter tessellations are able to represent a rich family of polycrystalline microstructures. We use tools from optimal transport theory and computational geometry to give precise control over the volumes of the grains and to generate synthetic microstructures with 10,000+ grains in the order of seconds. By using APDs and GPU-acceleration, we can also control the shape of the grains and allow for curved grain boundaries. Applications include crystal plasticity simulations, modelling grain growth and recrystallisation, and fitting diagrams to EBSD and XRD images of metals. In this talk we will give demonstrations of our software libraries SynthetMic and PyAPD.</p>
 </div>
@@ -21,7 +21,7 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 
 <div class="speaker" id="didier-farrugia">
 <h3>Didier Farrugia</h3>
-<p class="meta">Tata Steel UK · Wednesday 6 May, 3:45pm</p>
+<p class="meta">Tata Steel UK · Wednesday 6 May, 3:30pm</p>
 <p class="talk-title">Microstructure modelling from the perspective of a steel manufacturer: a journey from the past, present and into the future</p>
 <p class="abstract">This talk will aim to give an overview of the various microstructure modelling approaches developed since the 1990s from the author's own experience and involvement in this field, as well as highlighting their benefits/drawbacks from the point of view of a steel manufacturer transitioning to a low CO2 manufacturing process. The talk represents a snapshot of the journey from the past to the present, together with future needs/ideas.</p>
 </div>
@@ -91,7 +91,7 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 
 <div class="speaker" id="carl-slater">
 <h3>Carl Slater</h3>
-<p class="meta">Warwick Manufacturing Group, University of Warwick · Wednesday 6 May, 1:45pm</p>
+<p class="meta">Warwick Manufacturing Group, University of Warwick · Wednesday 6 May, 1:30pm</p>
 <p class="talk-title">Rapid Alloy Development at WMG – Bringing together physical, digital and smart alloy processing</p>
 <p class="abstract">The rise in energy and raw material prices means that industrial scale alloy / process development is more challenging than ever. Dr Slater will present the 3 streams of Rapid Alloy Processing (RAP) at Warwick; Physical, Digital and Smart. He will present the ecosystem that houses these systems and give examples of how they work both independently and also synergistically to help derisk alloy/process development in the modern age.</p>
 </div>
