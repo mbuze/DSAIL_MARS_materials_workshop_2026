@@ -3,8 +3,6 @@ title: "Programme"
 description: "Workshop programme — DSAIL / MARS Materials Workshop 2026"
 ---
 
-> **Draft schedule — subject to change.**
-
 ## Wednesday 6 May
 
 <div class="schedule">
