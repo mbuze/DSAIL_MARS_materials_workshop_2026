@@ -42,7 +42,7 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 
 <div class="speaker" id="xinyi-wu">
 <h3>Xinyi Wu</h3>
-<p class="meta">Lancaster University · Thursday 7 May, 12:10pm</p>
+<p class="meta">Lancaster University · Thursday 7 May, 4:15pm</p>
 <p class="talk-title">Computing Transport Coefficients in Coarse-Grained Molecular Dynamics</p>
 <p class="abstract">Coarse-grained molecular dynamics provides an effective framework for modelling complex fluids and soft matter systems at mesoscopic scales. A key challenge is the accurate and efficient computation of transport coefficients, such as mobility and shear viscosity, which characterise the dynamical behaviour of these systems.<br><br>In this talk, I will present my previous work on the computation of transport coefficients in dissipative particle dynamics, with a focus on methods based on linear response theory and stochastic dynamics. I will also briefly outline my future research directions on data-driven coarse-grained modelling, focusing on physically consistent stochastic dynamics and the accurate representation of dynamical properties.</p>
 </div>
