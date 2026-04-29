@@ -25,6 +25,7 @@ description: "Workshop programme — DSAIL / MARS Materials Workshop 2026"
 <div class="srow break"><span class="stime">10:30am</span><span class="sentry">Coffee break</span></div>
 <div class="srow"><span class="stime">11am</span><span class="sentry"><a href="../speakers/#angela-mihai">Angela Mihai</a> · Cardiff University</span></div>
 <div class="srow"><span class="stime">11:45am</span><span class="sentry"><a href="../speakers/#shresht-jain">Shresht Jain</a> · University of Manchester</span></div>
+<div class="srow"><span class="stime">12:10pm</span><span class="sentry"><a href="../speakers/#xinyi-wu">Xinyi Wu</a> · Lancaster University</span></div>
 <div class="srow break"><span class="stime">12:30pm</span><span class="sentry">Lunch</span></div>
 <div class="srow"><span class="stime">1:30pm</span><span class="sentry"><a href="../speakers/#viktor-zólyomi">Viktor Zólyomi</a> · STFC Hartree Centre</span></div>
 <div class="srow"><span class="stime">2:15pm</span><span class="sentry"><a href="../speakers/#samuel-magorrian">Samuel Magorrian</a> · STFC Hartree Centre</span></div>

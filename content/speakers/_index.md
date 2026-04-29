@@ -40,6 +40,13 @@ description: "Confirmed speakers for the DSAIL / MARS Materials Workshop 2026"
 <p class="abstract">Scale-bridging between atomistic and continuum materials models remains a fundamental challenge due to the disparate physical descriptions at each scale. Rigorous mathematical results proved over the last decade have begun to close this gap, providing formal foundations to better connect the two. These theoretical insights are now directly informing computational workflows through enhanced error control and more efficient coarse-graining strategies. In this talk, I will present the mathematical developments mentioned alongside some more recent applications, showing that rigour is improving both practical computational performance and understanding.</p>
 </div>
 
+<div class="speaker" id="xinyi-wu">
+<h3>Xinyi Wu</h3>
+<p class="meta">Lancaster University · Thursday 7 May, 12:10pm</p>
+<p class="talk-title">Computing Transport Coefficients in Coarse-Grained Molecular Dynamics</p>
+<p class="abstract">Coarse-grained molecular dynamics provides an effective framework for modelling complex fluids and soft matter systems at mesoscopic scales. A key challenge is the accurate and efficient computation of transport coefficients, such as mobility and shear viscosity, which characterise the dynamical behaviour of these systems.<br><br>In this talk, I will present my previous work on the computation of transport coefficients in dissipative particle dynamics, with a focus on methods based on linear response theory and stochastic dynamics. I will also briefly outline my future research directions on data-driven coarse-grained modelling, focusing on physically consistent stochastic dynamics and the accurate representation of dynamical properties.</p>
+</div>
+
 <div class="speaker" id="shresht-jain">
 <h3>Shresht Jain</h3>
 <p class="meta">University of Manchester · Thursday 7 May, 11:45am</p>
